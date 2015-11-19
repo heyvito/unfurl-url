@@ -1,0 +1,36 @@
+{
+  "name": "unfurl-url",
+  "version": "1.0.0",
+  "description": "URL unfurl helper for Node.js",
+  "main": "lib/unfurl.js",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.0",
+    "jenkins-mocha": "^2.5.0",
+    "mocha": "^2.3.4",
+    "coveralls": "2.10.0"
+  },
+  "scripts": {
+    "test": "jenkins-mocha -t 10000 -s 5000 spec/*",
+    "test-travis": "./node_modules/.bin/jenkins-mocha --cobertura spec -t 10000 -s 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgama/unfurl-url.git"
+  },
+  "keywords": [
+    "url",
+    "unfurl",
+    "minify",
+    "deminify",
+    "expand"
+  ],
+  "author": "Victor Gama <hey@vito.io> (http://vito.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorgama/unfurl-url/issues"
+  },
+  "homepage": "https://github.com/victorgama/unfurl-url#readme"
+}
