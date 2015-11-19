@@ -1,7 +1,7 @@
 # Unfurl URL
 
 [![Build Status](https://travis-ci.org/victorgama/unfurl-url.svg?branch=master)](https://travis-ci.org/victorgama/unfurl-url)
-[![Coverage Status](https://coveralls.io/repos/victorgama/unfurl-url/badge.svg)](https://coveralls.io/r/victorgama/unfurl-url)
+[![Coverage Status](https://coveralls.io/repos/victorgama/unfurl-url/badge.svg?branch=master&service=github)](https://coveralls.io/github/victorgama/unfurl-url?branch=master)
 
 `unfurl-url` is a simple tool to unminifies URLs. It is actually used by D3 Estudio's [weekly-digest](http://github.com/d3estudio/weekly-digest) project.
 
