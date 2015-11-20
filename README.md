@@ -6,7 +6,7 @@
 [![npm version](https://badge.fury.io/js/unfurl-url.svg)](https://badge.fury.io/js/unfurl-url)
 [![Dependency Status](https://david-dm.org/victorgama/unfurl-url.svg)](https://david-dm.org/victorgama/unfurl-url)
 
-`unfurl-url` is a simple tool to unminifies URLs. It is actually used by D3 Estudio's [weekly-digest](http://github.com/d3estudio/weekly-digest) project.
+`unfurl-url` is a simple tool that unminifies URLs. It is actually used by D3 Estudio's [weekly-digest](http://github.com/d3estudio/weekly-digest) project.
 
 # Installing
 Install it through NPM:
