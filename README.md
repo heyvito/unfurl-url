@@ -2,7 +2,7 @@
 ![npm](https://nodei.co/npm/unfurl-url.png)
 
 [![Build Status](https://travis-ci.org/victorgama/unfurl-url.svg?branch=master)](https://travis-ci.org/victorgama/unfurl-url)
-[![Coverage Status](https://coveralls.io/repos/victorgama/unfurl-url/badge.svg?branch=master&service=github)](https://coveralls.io/github/victorgama/unfurl-url?branch=master)
+[![codecov](https://codecov.io/gh/victorgama/unfurl-url/branch/master/graph/badge.svg)](https://codecov.io/gh/victorgama/unfurl-url)
 [![npm version](https://badge.fury.io/js/unfurl-url.svg)](https://badge.fury.io/js/unfurl-url)
 [![Dependency Status](https://david-dm.org/victorgama/unfurl-url.svg)](https://david-dm.org/victorgama/unfurl-url)
 
