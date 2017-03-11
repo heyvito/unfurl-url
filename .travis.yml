@@ -4,4 +4,4 @@ node_js:
  - "4.1.1"
  - "5.1.0"
 script: "npm run-script test-travis"
-after_script: "cat ./artifacts/coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+after_script: "cat ./artifacts/coverage/lcov.info | ./node_modules/codecov/bin/codecov"

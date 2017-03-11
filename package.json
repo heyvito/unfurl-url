@@ -7,10 +7,10 @@
     "request": "^2.67.0"
   },
   "devDependencies": {
+    "codecov": "^1.0.1",
     "istanbul": "^0.4.0",
     "jenkins-mocha": "^2.5.0",
-    "mocha": "^2.3.4",
-    "coveralls": "2.10.0"
+    "mocha": "^2.3.4"
   },
   "scripts": {
     "test": "jenkins-mocha -t 10000 -s 5000 spec/*",
